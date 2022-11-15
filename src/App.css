@@ -3,6 +3,10 @@
   height: 150px;
   width: 150px;
   border-radius: 50%;
-  border: 2px solid #cddc39;
+  border: 2px solid #999995;
   filter: drop-shadow(0 0 8px #000000)
+}
+
+.mernLogo {
+  max-width: 50%;
 }
