@@ -15,7 +15,7 @@ function AboutMeCard() {
       <Card.Body>
       
         <Card.Text>
-        I am a Digital Forensics Examiner with the King County Sheriff's Office and a Full Stack JavaScript Web Developer, MERN Stack. CompTIA S+, N+, A+ Certified. USSS Cyber Fraud Task Force Member. 
+        I am a Digital Forensics Examiner with the King County Sheriff's Office and a Full Stack JavaScript Web Developer, MERN Stack. CompTIA S+, N+, A+ Certified. USSS Cyber Fraud Task Force Member. M.S. in Forensic Psychology.
         </Card.Text>
         <Card.Text>
         I've worked to specialize my career toward the investigation of digital crimes to merge my education, interests, and passions of technology and psychology to help people. I am a Security Researcher and I spend my free time developing my Information Security and Web Development skills.

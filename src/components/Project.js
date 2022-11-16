@@ -10,7 +10,7 @@ function Project(props) {
         <Card.Text>
          {props.description}
         </Card.Text>
-        <Button variant="primary" className="button-84">Visit Github Repo</Button>
+        <Button variant="primary" href={props.url} className="button-84">Visit Github Repo</Button>
       </Card.Body>
     </Card>
   );

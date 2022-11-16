@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 //ToDo: Make AllProjects replace AboutMeCard on Click of link
 import AllProjects from './components/AllProjects';
 import React, {useState} from 'react';
+import Resume from './components/Resume';
 
 
 
@@ -25,7 +26,7 @@ function App() {
       return <AboutMeCard />;
     }
     if (currentPage === 'resume') {
-      return <AboutMeCard />;
+      return <Resume />;
     }else
     return <AboutMeCard />;
   };

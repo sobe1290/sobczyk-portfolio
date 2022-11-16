@@ -13,7 +13,7 @@ function NavBar({ currentPage, handlePageChange }) {
             <Nav.Link className={currentPage === 'aboutme' ? 'nav-link active' : 'nav-link'}href="#aboutme" onClick={() => handlePageChange('aboutme')}>About Me</Nav.Link>
             <Nav.Link className={currentPage === 'portfolio' ? 'nav-link active' : 'nav-link'}href="#portfolio" onClick={() => handlePageChange('portfolio')}>Portfolio</Nav.Link>
             <Nav.Link href="#contact">Contact</Nav.Link>
-            <Nav.Link href="#resume">Resume</Nav.Link>
+            <Nav.Link className={currentPage === 'resume' ? 'nav-link active' : 'nav-link'}href="#resume" onClick={() => handlePageChange('resume')}>Resume</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
