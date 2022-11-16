@@ -5,13 +5,38 @@ import AboutMeCard from './components/AboutMeCard';
 import Footer from './components/Footer';
 //ToDo: Make AllProjects replace AboutMeCard on Click of link
 import AllProjects from './components/AllProjects';
+import React, {useState} from 'react';
+
+
 
 function App() {
+  const [currentPage, setCurrentPage] = useState('aboutme');
+  const renderPage = () => {
+
+    
+
+    if (currentPage === 'aboutme') {
+      return <AboutMeCard />;
+    }
+    if (currentPage === 'portfolio') {
+      return <AllProjects />;
+    } 
+    if (currentPage === 'contact') {
+      return <AboutMeCard />;
+    }
+    if (currentPage === 'resume') {
+      return <AboutMeCard />;
+    }else
+    return <AboutMeCard />;
+  };
+
+  const handlePageChange = (page) => setCurrentPage(page);
+
   return (
 
     <div className="App">
-      <NavBar />
-      <AllProjects />
+      <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />      
+      {renderPage()}
       <Footer />
     </div>
   );
