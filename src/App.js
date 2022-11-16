@@ -4,14 +4,14 @@ import  NavBar  from "./components/NavBar";
 import AboutMeCard from './components/AboutMeCard';
 import Footer from './components/Footer';
 //ToDo: Make AllProjects replace AboutMeCard on Click of link
-//import AllProjects from './components/AllProjects';
+import AllProjects from './components/AllProjects';
 
 function App() {
   return (
 
     <div className="App">
       <NavBar />
-      <AboutMeCard />
+      <AllProjects />
       <Footer />
     </div>
   );
