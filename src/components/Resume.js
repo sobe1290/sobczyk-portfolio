@@ -1,5 +1,6 @@
 import React from 'react'
 import { Button } from 'react-bootstrap'
+import ProfList from './ProfList'
 
 function Resume() {
 
@@ -23,6 +24,7 @@ function Resume() {
                 <h3 className="m-3">Click on below button to download a copy of my Resume</h3>
                 <Button variant="primary" className="button-84 m-3" onClick={onButtonClick}>Download PDF</Button>
             </center>
+            <ProfList />
         </>
   )
 }
