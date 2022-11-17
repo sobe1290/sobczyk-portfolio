@@ -3,7 +3,11 @@
 
   ## Project Description 
 
-  This is my portfolio that I created using React. This is a single page application with responsive elements.
+  This is my portfolio that I created using React. This is a single page application with responsive elements. 
+  
+  Live Deployment cand be viewed at:
+  
+  https://sobe1290.github.io/sobczyk-portfolio/
 
   # Table of Contents
 
@@ -75,8 +79,12 @@
   For questions contact my via Github at https://github.com/sobe1290 or my email at sobczyk1290@gmail.com.
 
   ## Screenshot
+  
+   Below is a screenshot of the portfolio:
+   
+![screenshot](https://user-images.githubusercontent.com/26222624/202554165-87c85925-bbde-4440-9c43-138f60a0150b.png)
 
-  Below is a screenshot of the portfolio:
+ 
   
   
   
