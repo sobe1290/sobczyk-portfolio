@@ -8,7 +8,7 @@ function NavBar({ currentPage, handlePageChange }) {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">Patrick Sobczyk</Navbar.Brand>
+          <Navbar.Brand className={currentPage === 'aboutme' ? 'nav-link active' : 'nav-link'}href="#aboutme" onClick={() => handlePageChange('aboutme')}>Patrick Sobczyk</Navbar.Brand>
           <Nav className="me-auto px-5">
             <Nav.Link className={currentPage === 'aboutme' ? 'nav-link active' : 'nav-link'}href="#aboutme" onClick={() => handlePageChange('aboutme')}>About Me</Nav.Link>
             <Nav.Link className={currentPage === 'portfolio' ? 'nav-link active' : 'nav-link'}href="#portfolio" onClick={() => handlePageChange('portfolio')}>Portfolio</Nav.Link>
