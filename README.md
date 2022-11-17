@@ -23,7 +23,7 @@
 
   - [Questions](#questions)
 
-  - [Demonstration](#demonstration)
+  - [Screenshot](#screenshot)
 
     
   ## Installation 
