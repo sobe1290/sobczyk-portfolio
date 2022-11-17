@@ -1,70 +1,82 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  # Sobczyk's Portfolio    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+  ## Project Description 
 
-In the project directory, you can run:
+  This is my portfolio that I created using React. This is a single page application with responsive elements.
 
-### `npm start`
+  # Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  - [Installation](#installation)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  - [Usage](#usage)
 
-### `npm test`
+  - [License](#license)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - [Contributing](#contributing)
 
-### `npm run build`
+  - [Tests](#tests)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  - [Questions](#questions)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  - [Demonstration](#demonstration)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    
+  ## Installation 
 
-### `npm run eject`
+  Node.js a javascript runtime which is required to run this project. Download Node.js at https://nodejs.org/dist/v16.17.0/node-v16.17.0-x64.msi. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  ```
+  npm install
+  ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ## Usage 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  To run this application, open a terminal in the same folder as the project.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  To run a dev version of the app for testing, run the following command:
 
-## Learn More
+  ```
+  npm run start
+  ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  to build the application and deploy it after linking it with a github pages site, run the following command
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ```
+  npm run deploy
+  ```
 
-### Code Splitting
+  ## License 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  MIT License
 
-### Analyzing the Bundle Size
+  ### About this License 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  Copyright 2022, Patrick Sobczyk
 
-### Making a Progressive Web App
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-### Advanced Configuration
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  [Link to the MIT Webpage](https://www.mit.edu/~amini/LICENSE.md)
 
-### Deployment
+  ## Contributing 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  To report an error or bug, request a feature, contribute code and documentation, or to submit and review issues, contact me by email at sobczyk1290@gmail.com to become a contributor to the project.
 
-### `npm run build` fails to minify
+  ## Tests 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  Tests have not been implemented for this version.
+
+  ## Questions 
+
+  For questions contact my via Github at https://github.com/sobe1290 or my email at sobczyk1290@gmail.com.
+
+  ## Screenshot
+
+  Below is a screenshot of the portfolio:
+  
+  
+  
