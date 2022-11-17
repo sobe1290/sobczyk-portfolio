@@ -97,3 +97,15 @@
   -webkit-user-select: none;
   touch-action: manipulation;
 }
+
+.headone{
+  display: flex;
+  font-size: 30px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #090414, #787779);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  justify-content: center;
+  margin-top: 20px;
+}

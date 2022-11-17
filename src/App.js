@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import AllProjects from './components/AllProjects';
 import React, {useState} from 'react';
 import Resume from './components/Resume';
+import Contact from './components/Contact';
 
 
 
@@ -23,7 +24,7 @@ function App() {
       return <AllProjects />;
     } 
     if (currentPage === 'contact') {
-      return <AboutMeCard />;
+      return <Contact />;
     }
     if (currentPage === 'resume') {
       return <Resume />;
