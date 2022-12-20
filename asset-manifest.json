@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sobczyk-portfolio/static/css/main.f4ebc67c.css",
-    "main.js": "/sobczyk-portfolio/static/js/main.b3571f99.js",
+    "main.js": "/sobczyk-portfolio/static/js/main.46b1b6ea.js",
     "static/js/787.511d0afb.chunk.js": "/sobczyk-portfolio/static/js/787.511d0afb.chunk.js",
     "static/media/finalProject.png": "/sobczyk-portfolio/static/media/finalProject.65439d7d5209b4b2224e.png",
     "static/media/wholetdawgout.png": "/sobczyk-portfolio/static/media/wholetdawgout.a2d3c0b954df4e7b1dbf.png",
@@ -30,11 +30,11 @@
     "static/media/arrow_left.svg": "/sobczyk-portfolio/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/sobczyk-portfolio/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
     "main.f4ebc67c.css.map": "/sobczyk-portfolio/static/css/main.f4ebc67c.css.map",
-    "main.b3571f99.js.map": "/sobczyk-portfolio/static/js/main.b3571f99.js.map",
+    "main.46b1b6ea.js.map": "/sobczyk-portfolio/static/js/main.46b1b6ea.js.map",
     "787.511d0afb.chunk.js.map": "/sobczyk-portfolio/static/js/787.511d0afb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4ebc67c.css",
-    "static/js/main.b3571f99.js"
+    "static/js/main.46b1b6ea.js"
   ]
 }
