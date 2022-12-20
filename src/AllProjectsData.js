@@ -3,7 +3,7 @@ import dawgImage from './wholetdawgout.png'
 import techblog from './techblog.jpg'
 import jate from './jate.jpg'
 import mongoAPI from './MongoDB_Logo.svg'
-import sqlTracker from './sqltracker.jpg'
+import finalProject from './finalProject.png'
 
 const AllProjectsData = [
   
@@ -53,11 +53,12 @@ const AllProjectsData = [
           },
           { 
             key: 5,
-            url: 'https://github.com/sobe1290/SobczyksSQLTeamTracker',
-            tileImage: sqlTracker,
-            title: 'SQL Team Tracker',
-            description: 'This is a command line content management system that uses MySQL and Node.js to track employees on a team.',
-            deployment: false,
+            url: 'https://github.com/zshep/Fortress_of_Solitude',
+            tileImage: finalProject,
+            title: 'GoMode',
+            description: 'This is a community volunteer board where you can post and take jobs!',
+            deployment: true,
+            liveLink: 'https://gomodez.herokuapp.com/'
           },
     ];
 
