@@ -25,7 +25,7 @@ function AllProjects() {
               <Project title={AllProjectsData[4].title} url={AllProjectsData[4].url} tileImage={AllProjectsData[4].tileImage} description={AllProjectsData[4].description} deployment={AllProjectsData[4].deployment}/>
             </Col>
             <Col>
-              <Project title={AllProjectsData[5].title} url={AllProjectsData[5].url} tileImage={AllProjectsData[5].tileImage} description={AllProjectsData[5].description} deployment={AllProjectsData[5].deployment}/>
+              <Project title={AllProjectsData[5].title} url={AllProjectsData[5].url} tileImage={AllProjectsData[5].tileImage} description={AllProjectsData[5].description} deployment={AllProjectsData[5].deployment} liveLink={AllProjectsData[5].liveLink}/>
             </Col>
           
         </Row>
