@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/sobczyk-portfolio/static/css/main.f4ebc67c.css",
-    "main.js": "/sobczyk-portfolio/static/js/main.bb0890d3.js",
+    "main.js": "/sobczyk-portfolio/static/js/main.b3571f99.js",
     "static/js/787.511d0afb.chunk.js": "/sobczyk-portfolio/static/js/787.511d0afb.chunk.js",
+    "static/media/finalProject.png": "/sobczyk-portfolio/static/media/finalProject.65439d7d5209b4b2224e.png",
     "static/media/wholetdawgout.png": "/sobczyk-portfolio/static/media/wholetdawgout.a2d3c0b954df4e7b1dbf.png",
     "static/media/fa-solid-900.svg": "/sobczyk-portfolio/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/sobczyk-portfolio/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -19,7 +20,6 @@
     "static/media/fa-solid-900.woff2": "/sobczyk-portfolio/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
     "static/media/fa-brands-400.woff2": "/sobczyk-portfolio/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
     "static/media/techblog.jpg": "/sobczyk-portfolio/static/media/techblog.4014b7e22e9d4b25b010.jpg",
-    "static/media/sqltracker.jpg": "/sobczyk-portfolio/static/media/sqltracker.a03cacfd3d294043af9d.jpg",
     "static/media/jate.jpg": "/sobczyk-portfolio/static/media/jate.da78383260f235384db5.jpg",
     "static/media/fa-regular-400.eot": "/sobczyk-portfolio/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
     "static/media/fa-regular-400.ttf": "/sobczyk-portfolio/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
@@ -30,11 +30,11 @@
     "static/media/arrow_left.svg": "/sobczyk-portfolio/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/sobczyk-portfolio/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
     "main.f4ebc67c.css.map": "/sobczyk-portfolio/static/css/main.f4ebc67c.css.map",
-    "main.bb0890d3.js.map": "/sobczyk-portfolio/static/js/main.bb0890d3.js.map",
+    "main.b3571f99.js.map": "/sobczyk-portfolio/static/js/main.b3571f99.js.map",
     "787.511d0afb.chunk.js.map": "/sobczyk-portfolio/static/js/787.511d0afb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4ebc67c.css",
-    "static/js/main.bb0890d3.js"
+    "static/js/main.b3571f99.js"
   ]
 }
