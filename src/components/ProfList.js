@@ -6,7 +6,7 @@ function ProfList() {
     <>
     <Row>
       <Col md={6}>
-    <h1 className="headone">Below are my Web Development Proficiencies</h1>
+    <h1 className="headone">Below are some of my Web Development Proficiencies</h1>
     <ListGroup className="d-flex align-items-center p-5">
       <ListGroup.Item className='profLi m-2'>JavaScript</ListGroup.Item>
       <ListGroup.Item className='profLi m-2'>jQuery</ListGroup.Item>

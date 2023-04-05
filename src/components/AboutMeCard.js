@@ -1,4 +1,4 @@
-import { Stack } from 'react-bootstrap';
+import { Col, Row } from 'react-bootstrap';
 import Card from 'react-bootstrap/Card';
 import MERNLogo from '../MERNLogo.png';
 import ProfilePic from '../profilepic.jpg';
@@ -7,10 +7,20 @@ function AboutMeCard() {
   return (
     <Card>
       <Card.Header>About Me</Card.Header>
-      <Stack direction="horizontal" className="m-3 p-3">
+      <Row className='mainPageRow'>
+      <Col >
+      <Card.Img variant="top" src={MERNLogo} className="mernLogo" />
+      </Col>
+      <Col className='profileCol'>
       <img src={ProfilePic} className="profilePic" alt="ProfilePic"></img>
-      <Card.Img variant="top" src={MERNLogo} className="mernLogo mx-auto" />
-      </Stack>
+      </Col>
+      
+      <Col >
+      <img src="https://tryhackme-badges.s3.amazonaws.com/sobewan.png" alt="TryHackMe"></img>
+      </Col>
+
+      </Row>
+      
       
       <Card.Body>
       
@@ -22,6 +32,9 @@ function AboutMeCard() {
         </Card.Text>
         <Card.Text>
         Contact me if you would like to connect!
+        </Card.Text>
+        <Card.Text>
+        Vulnerability Disclosure count : 1 ..(so far)
         </Card.Text>
         
       </Card.Body>

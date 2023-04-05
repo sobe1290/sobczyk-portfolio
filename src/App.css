@@ -4,11 +4,32 @@
   width: 150px;
   border-radius: 50%;
   border: 2px solid #999995;
-  filter: drop-shadow(0 0 8px #000000)
+  filter: drop-shadow(0 0 8px #000000);
+}
+
+.profileCol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CVBody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CVEducation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: larger;
 }
 
 .mernLogo {
-  max-width: 50%;
+  min-width: 50px;
+  max-width: 300px;
 }
 
 /* CSS */
@@ -108,4 +129,8 @@
   -webkit-background-clip: text;
   justify-content: center;
   margin-top: 20px;
+}
+
+.mainPageRow {
+  padding: 20px;
 }
