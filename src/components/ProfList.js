@@ -1,10 +1,12 @@
 import React from 'react'
-import { ListGroup } from 'react-bootstrap'
+import { ListGroup, Col, Row } from 'react-bootstrap'
 
 function ProfList() {
   return (
     <>
-    <h1 className="headone">Below are my Dev Proficiencies</h1>
+    <Row>
+      <Col md={6}>
+    <h1 className="headone">Below are my Web Development Proficiencies</h1>
     <ListGroup className="d-flex align-items-center p-5">
       <ListGroup.Item className='profLi m-2'>JavaScript</ListGroup.Item>
       <ListGroup.Item className='profLi m-2'>jQuery</ListGroup.Item>
@@ -17,6 +19,22 @@ function ProfList() {
       <ListGroup.Item className='profLi m-2'>CSS</ListGroup.Item>
       <ListGroup.Item className='profLi m-2'>Bootstrap</ListGroup.Item>
     </ListGroup>
+    </Col>
+    <Col md={6}>
+    <h1 className="headone">Below are some of my Digital Forensics Proficiencies</h1>
+    <ListGroup className="d-flex align-items-center p-5">
+      <ListGroup.Item className='profLi m-2'>Magnet Axiom</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>Cellebrite</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>Autopsy</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>X-wayz</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>FTK Imager</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>KAPE</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>DVR Examiner</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>Volatility</ListGroup.Item>
+    </ListGroup>
+    </Col>
+    </Row>
+    
     </>
   )
 }

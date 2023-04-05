@@ -3,11 +3,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import  NavBar  from "./components/NavBar";
 import AboutMeCard from './components/AboutMeCard';
 import Footer from './components/Footer';
-//ToDo: Make AllProjects replace AboutMeCard on Click of link
-import AllProjects from './components/AllProjects';
+import CV from './components/CV';
 import React, {useState} from 'react';
 import Resume from './components/Resume';
-import Contact from './components/Contact';
+
 
 
 
@@ -20,12 +19,9 @@ function App() {
     if (currentPage === 'aboutme') {
       return <AboutMeCard />;
     }
-    if (currentPage === 'portfolio') {
-      return <AllProjects />;
+    if (currentPage === 'CV') {
+      return <CV />;
     } 
-    if (currentPage === 'contact') {
-      return <Contact />;
-    }
     if (currentPage === 'resume') {
       return <Resume />;
     }else
