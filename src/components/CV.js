@@ -8,6 +8,9 @@ function CV () {
         Education
         </Card.Text>
         <Card.Text className='CVBody'>
+        Certified Computer Forensic Examiner - The International Association of Computer Investigative Specialists - 2023
+        </Card.Text>
+        <Card.Text className='CVBody'>
         Network Intrustion Response Program - National Computer Forensics Institute - 2023
         </Card.Text>
         <Card.Text className='CVBody'>

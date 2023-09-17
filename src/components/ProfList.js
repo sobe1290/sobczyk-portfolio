@@ -22,7 +22,10 @@ function ProfList() {
     </Col>
     <Col md={6}>
     <h1 className="headone">Below are some of my Digital Forensics Proficiencies</h1>
-    <ListGroup className="d-flex align-items-center p-5">
+      <ListGroup className="d-flex align-items-center p-5">
+      <ListGroup.Item className='profLi m-2'>Malware Analysis</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>Incident Response</ListGroup.Item>
+      <ListGroup.Item className='profLi m-2'>Forensic Explorer</ListGroup.Item>
       <ListGroup.Item className='profLi m-2'>Magnet Axiom</ListGroup.Item>
       <ListGroup.Item className='profLi m-2'>Cellebrite</ListGroup.Item>
       <ListGroup.Item className='profLi m-2'>Autopsy</ListGroup.Item>
