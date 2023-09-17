@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sobczyk-portfolio/static/css/main.d0a1bc72.css",
+    "main.js": "/sobczyk-portfolio/static/js/main.238be3a2.js",
+    "static/js/787.511d0afb.chunk.js": "/sobczyk-portfolio/static/js/787.511d0afb.chunk.js",
+    "static/media/fa-solid-900.svg": "/sobczyk-portfolio/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/sobczyk-portfolio/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/fa-solid-900.eot": "/sobczyk-portfolio/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/sobczyk-portfolio/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/fa-regular-400.svg": "/sobczyk-portfolio/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/sobczyk-portfolio/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/sobczyk-portfolio/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/profilepic.jpg": "/sobczyk-portfolio/static/media/profilepic.26ea425e0e1f626b3023.jpg",
+    "static/media/MERNLogo.png": "/sobczyk-portfolio/static/media/MERNLogo.48df5b9e840697683155.png",
+    "static/media/fa-solid-900.woff": "/sobczyk-portfolio/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/CFCE-New-3-300x298.png": "/sobczyk-portfolio/static/media/CFCE-New-3-300x298.860e78fedaa50ae3e523.png",
+    "static/media/fa-brands-400.woff": "/sobczyk-portfolio/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/sobczyk-portfolio/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/sobczyk-portfolio/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/fa-regular-400.eot": "/sobczyk-portfolio/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/sobczyk-portfolio/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/fa-regular-400.woff": "/sobczyk-portfolio/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/sobczyk-portfolio/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "index.html": "/sobczyk-portfolio/index.html",
+    "static/media/arrow_left.svg": "/sobczyk-portfolio/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "/sobczyk-portfolio/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.d0a1bc72.css.map": "/sobczyk-portfolio/static/css/main.d0a1bc72.css.map",
+    "main.238be3a2.js.map": "/sobczyk-portfolio/static/js/main.238be3a2.js.map",
+    "787.511d0afb.chunk.js.map": "/sobczyk-portfolio/static/js/787.511d0afb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a1bc72.css",
+    "static/js/main.238be3a2.js"
+  ]
+}
